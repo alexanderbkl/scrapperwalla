@@ -1,0 +1,2562 @@
+[
+  {
+    "Locations": "A Coruna",
+    "Latitude": 43.33333,
+    "Longitude": -8.41667
+  },
+  {
+    "Locations": "A Estrada",
+    "Latitude": 42.71667,
+    "Longitude": -8.45
+  },
+  {
+    "Locations": "A Fonagrads",
+    "Latitude": 43.13333,
+    "Longitude": -7.45
+  },
+  {
+    "Locations": "Adaja",
+    "Latitude": 41.53333,
+    "Longitude": -4.86667
+  },
+  {
+    "Locations": "Adra ",
+    "Latitude": 36.71667,
+    "Longitude": -3.05
+  },
+  {
+    "Locations": "Aguilas",
+    "Latitude": 37.38333,
+    "Longitude": -1.58333
+  },
+  {
+    "Locations": "Aire, I. De I',",
+    "Latitude": 39.8,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Ajo, C. de",
+    "Latitude": 43.51667,
+    "Longitude": -3.58333
+  },
+  {
+    "Locations": "Alaior",
+    "Latitude": 39.95,
+    "Longitude": 4.13333
+  },
+  {
+    "Locations": "Albacete",
+    "Latitude": 39,
+    "Longitude": -1.83333
+  },
+  {
+    "Locations": "Alberche",
+    "Latitude": 39.96667,
+    "Longitude": -4.76667
+  },
+  {
+    "Locations": "Alcala de Henares",
+    "Latitude": 40.46667,
+    "Longitude": -3.36667
+  },
+  {
+    "Locations": "Alcala Ia Real",
+    "Latitude": 37.45,
+    "Longitude": -3.95
+  },
+  {
+    "Locations": "Alcaniz",
+    "Latitude": 41.03333,
+    "Longitude": -0.13333
+  },
+  {
+    "Locations": "Alcantara, Embalse de",
+    "Latitude": 39.73333,
+    "Longitude": -6.83333
+  },
+  {
+    "Locations": "Alcantarilla",
+    "Latitude": 37.98333,
+    "Longitude": -1.2
+  },
+  {
+    "Locations": "Alcaraz, Sierra de",
+    "Latitude": 38.66667,
+    "Longitude": -2.33333
+  },
+  {
+    "Locations": "Alcaudete",
+    "Latitude": 37.58333,
+    "Longitude": -4.08333
+  },
+  {
+    "Locations": "Alcazar de San Juan",
+    "Latitude": 39.4,
+    "Longitude": -3.2
+  },
+  {
+    "Locations": "Alcira/Alzira",
+    "Latitude": 39.15,
+    "Longitude": -0.5
+  },
+  {
+    "Locations": "Alcoy",
+    "Latitude": 38.71667,
+    "Longitude": -0.5
+  },
+  {
+    "Locations": "Alcudia",
+    "Latitude": 39.85,
+    "Longitude": 3.11667
+  },
+  {
+    "Locations": "Alcudia, B. d',",
+    "Latitude": 39.78333,
+    "Longitude": 3.25
+  },
+  {
+    "Locations": "Alfabia",
+    "Latitude": 39.73333,
+    "Longitude": 2.73333
+  },
+  {
+    "Locations": "Algaida",
+    "Latitude": 39.55,
+    "Longitude": 2.88333
+  },
+  {
+    "Locations": "Algeciras",
+    "Latitude": 36.15,
+    "Longitude": -5.46667
+  },
+  {
+    "Locations": "Algemesi",
+    "Latitude": 39.18333,
+    "Longitude": -0.45
+  },
+  {
+    "Locations": "Alicante ",
+    "Latitude": 38.38333,
+    "Longitude": -0.5
+  },
+  {
+    "Locations": "Almaden",
+    "Latitude": 38.81667,
+    "Longitude": -4.86667
+  },
+  {
+    "Locations": "Almansa",
+    "Latitude": 38.85,
+    "Longitude": -1.08333
+  },
+  {
+    "Locations": "Almanzor, Pico",
+    "Latitude": 40.25,
+    "Longitude": -5.3
+  },
+  {
+    "Locations": "Almanzora",
+    "Latitude": 37.23333,
+    "Longitude": -1.76667
+  },
+  {
+    "Locations": "Almazan",
+    "Latitude": 41.5,
+    "Longitude": -2.5
+  },
+  {
+    "Locations": "Almendralejo",
+    "Latitude": 38.68333,
+    "Longitude": -6.43333
+  },
+  {
+    "Locations": "Almeria",
+    "Latitude": 36.86667,
+    "Longitude": -2.45
+  },
+  {
+    "Locations": "Alsasua",
+    "Latitude": 42.9,
+    "Longitude": -2.16667
+  },
+  {
+    "Locations": "Altea",
+    "Latitude": 38.63333,
+    "Longitude": -0.03333
+  },
+  {
+    "Locations": "Alzira",
+    "Latitude": 39.15,
+    "Longitude": -0.5
+  },
+  {
+    "Locations": "Andalucia",
+    "Latitude": 37.58333,
+    "Longitude": -5
+  },
+  {
+    "Locations": "Andalusia/Andalucia",
+    "Latitude": 37.58333,
+    "Longitude": -5
+  },
+  {
+    "Locations": "Andratx",
+    "Latitude": 39.65,
+    "Longitude": 2.41667
+  },
+  {
+    "Locations": "Andujar",
+    "Latitude": 38.05,
+    "Longitude": -4.08333
+  },
+  {
+    "Locations": "Aneto, Pico de",
+    "Latitude": 42.61667,
+    "Longitude": 0.66667
+  },
+  {
+    "Locations": "Antequera",
+    "Latitude": 37.08333,
+    "Longitude": -4.55
+  },
+  {
+    "Locations": "Aracena",
+    "Latitude": 37.88333,
+    "Longitude": -6.63333
+  },
+  {
+    "Locations": "Aragon",
+    "Latitude": 41.41667,
+    "Longitude": -0.66667
+  },
+  {
+    "Locations": "Aragon",
+    "Latitude": 42.21667,
+    "Longitude": -1.73333
+  },
+  {
+    "Locations": "Aranda de Duero",
+    "Latitude": 41.65,
+    "Longitude": -3.7
+  },
+  {
+    "Locations": "Aranjuez",
+    "Latitude": 40.01667,
+    "Longitude": -3.66667
+  },
+  {
+    "Locations": "Arcos de la Frontera",
+    "Latitude": 36.75,
+    "Longitude": -5.81667
+  },
+  {
+    "Locations": "Arevalo",
+    "Latitude": 41.05,
+    "Longitude": -4.71667
+  },
+  {
+    "Locations": "Arganda ",
+    "Latitude": 40.31667,
+    "Longitude": -3.43333
+  },
+  {
+    "Locations": "Arlanzon",
+    "Latitude": 42.05,
+    "Longitude": -4.28333
+  },
+  {
+    "Locations": "Arta",
+    "Latitude": 39.68333,
+    "Longitude": 3.35
+  },
+  {
+    "Locations": "Artrutx, C. de",
+    "Latitude": 39.91667,
+    "Longitude": 3.81667
+  },
+  {
+    "Locations": "Astorga",
+    "Latitude": 42.48333,
+    "Longitude": -6.13333
+  },
+  {
+    "Locations": "Asturias",
+    "Latitude": 43.25,
+    "Longitude": -6
+  },
+  {
+    "Locations": "Aubarca, C. d'",
+    "Latitude": 39.06667,
+    "Longitude": 1.36667
+  },
+  {
+    "Locations": "Avila",
+    "Latitude": 40.65,
+    "Longitude": -4.71667
+  },
+  {
+    "Locations": "Aviles",
+    "Latitude": 43.58333,
+    "Longitude": -5.95
+  },
+  {
+    "Locations": "Ayamonte",
+    "Latitude": 37.2,
+    "Longitude": -7.4
+  },
+  {
+    "Locations": "Azuaga",
+    "Latitude": 38.26667,
+    "Longitude": -5.65
+  },
+  {
+    "Locations": "Badajoz",
+    "Latitude": 38.83333,
+    "Longitude": -6.98333
+  },
+  {
+    "Locations": "Badalona",
+    "Latitude": 41.43333,
+    "Longitude": 2.25
+  },
+  {
+    "Locations": "Baena",
+    "Latitude": 37.61667,
+    "Longitude": -4.33333
+  },
+  {
+    "Locations": "Baeza",
+    "Latitude": 37.95,
+    "Longitude": -3.41667
+  },
+  {
+    "Locations": "Balaguer",
+    "Latitude": 41.83333,
+    "Longitude": 0.83333
+  },
+  {
+    "Locations": "Baleares, Is.,",
+    "Latitude": 39.5,
+    "Longitude": 3
+  },
+  {
+    "Locations": "Balearic Is./Baleares, Is.,",
+    "Latitude": 39.5,
+    "Longitude": 3
+  },
+  {
+    "Locations": "Banyalbufar",
+    "Latitude": 39.7,
+    "Longitude": 2.51667
+  },
+  {
+    "Locations": "Barakaldo",
+    "Latitude": 43.3,
+    "Longitude": -2.98333
+  },
+  {
+    "Locations": "Barbaria, C. de",
+    "Latitude": 38.65,
+    "Longitude": 1.4
+  },
+  {
+    "Locations": "Barbastro",
+    "Latitude": 42.03333,
+    "Longitude": 0.08333
+  },
+  {
+    "Locations": "Barcelona",
+    "Latitude": 41.35,
+    "Longitude": 2.16667
+  },
+  {
+    "Locations": "Basque Provinces/Pais Vasco",
+    "Latitude": 42.83333,
+    "Longitude": -2.75
+  },
+  {
+    "Locations": "Baza",
+    "Latitude": 37.5,
+    "Longitude": -2.78333
+  },
+  {
+    "Locations": "Bejar",
+    "Latitude": 40.38333,
+    "Longitude": -5.76667
+  },
+  {
+    "Locations": "Benavente",
+    "Latitude": 42.03333,
+    "Longitude": -5.71667
+  },
+  {
+    "Locations": "Benidorm",
+    "Latitude": 38.55,
+    "Longitude": -0.15
+  },
+  {
+    "Locations": "Berga",
+    "Latitude": 42.1,
+    "Longitude": 1.8
+  },
+  {
+    "Locations": "Berja",
+    "Latitude": 36.83333,
+    "Longitude": -2.93333
+  },
+  {
+    "Locations": "Betanzos",
+    "Latitude": 43.25,
+    "Longitude": -8.2
+  },
+  {
+    "Locations": "Bibao",
+    "Latitude": 43.26667,
+    "Longitude": -2.93333
+  },
+  {
+    "Locations": "Bibao/Bibao",
+    "Latitude": 43.26667,
+    "Longitude": -2.93333
+  },
+  {
+    "Locations": "Binisatua",
+    "Latitude": 39.83333,
+    "Longitude": 4.18333
+  },
+  {
+    "Locations": "Blanc, C.",
+    "Latitude": 39.35,
+    "Longitude": 2.85
+  },
+  {
+    "Locations": "Blanes",
+    "Latitude": 41.66667,
+    "Longitude": 2.8
+  },
+  {
+    "Locations": "Burgos",
+    "Latitude": 42.35,
+    "Longitude": -3.68333
+  },
+  {
+    "Locations": "Caballeria, C. de ",
+    "Latitude": 40.08333,
+    "Longitude": 4.08333
+  },
+  {
+    "Locations": "Cabra",
+    "Latitude": 37.5,
+    "Longitude": -4.46667
+  },
+  {
+    "Locations": "Caberera",
+    "Latitude": 39.13333,
+    "Longitude": 2.95
+  },
+  {
+    "Locations": "Cabriel",
+    "Latitude": 39.23333,
+    "Longitude": -1.05
+  },
+  {
+    "Locations": "Caceres",
+    "Latitude": 39.43333,
+    "Longitude": -6.38333
+  },
+  {
+    "Locations": "Cadiz",
+    "Latitude": 36.5,
+    "Longitude": -6.33333
+  },
+  {
+    "Locations": "Cadiz, G. de",
+    "Latitude": 36.66667,
+    "Longitude": -7
+  },
+  {
+    "Locations": "Cala d'Or",
+    "Latitude": 39.38333,
+    "Longitude": 3.23333
+  },
+  {
+    "Locations": "Cala en Porter",
+    "Latitude": 39.86667,
+    "Longitude": 4.13333
+  },
+  {
+    "Locations": "Cala Figuera, C. de",
+    "Latitude": 39.45,
+    "Longitude": 2.51667
+  },
+  {
+    "Locations": "Cala Forcat",
+    "Latitude": 40,
+    "Longitude": 3.78333
+  },
+  {
+    "Locations": "Cala Major",
+    "Latitude": 39.55,
+    "Longitude": 2.61667
+  },
+  {
+    "Locations": "Cala Mezquida/Sa Mesquida",
+    "Latitude": 39.91667,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Cala Millor",
+    "Latitude": 39.58333,
+    "Longitude": 3.36667
+  },
+  {
+    "Locations": "Cala Ratjada",
+    "Latitude": 39.71667,
+    "Longitude": 3.45
+  },
+  {
+    "Locations": "Cala Santa Galdana",
+    "Latitude": 39.93333,
+    "Longitude": 3.96667
+  },
+  {
+    "Locations": "Calahorra",
+    "Latitude": 42.3,
+    "Longitude": -1.98333
+  },
+  {
+    "Locations": "Calamocha",
+    "Latitude": 40.83333,
+    "Longitude": -1.28333
+  },
+  {
+    "Locations": "Calatayud",
+    "Latitude": 41.33333,
+    "Longitude": -1.66667
+  },
+  {
+    "Locations": "Calvia",
+    "Latitude": 39.56667,
+    "Longitude": 2.51667
+  },
+  {
+    "Locations": "Campos del Port",
+    "Latitude": 39.43333,
+    "Longitude": 3.01667
+  },
+  {
+    "Locations": "Can Clavo",
+    "Latitude": 38.95,
+    "Longitude": 1.45
+  },
+  {
+    "Locations": "Can Creu",
+    "Latitude": 38.96667,
+    "Longitude": 1.46667
+  },
+  {
+    "Locations": "Cangas de Narcea",
+    "Latitude": 43.16667,
+    "Longitude": -6.53333
+  },
+  {
+    "Locations": "Cantabria",
+    "Latitude": 43.16667,
+    "Longitude": -4
+  },
+  {
+    "Locations": "Cantabrian Mts./Cantabrica Cordillera",
+    "Latitude": 43,
+    "Longitude": -5.16667
+  },
+  {
+    "Locations": "Cantabrica, Cordillera",
+    "Latitude": 43,
+    "Longitude": -5.16667
+  },
+  {
+    "Locations": "Caravaca/Caravaca de la Cruz",
+    "Latitude": 38.13333,
+    "Longitude": -1.86667
+  },
+  {
+    "Locations": "Caravaca de la Cruz",
+    "Latitude": 38.13333,
+    "Longitude": -1.86667
+  },
+  {
+    "Locations": "Carballo",
+    "Latitude": 43.21667,
+    "Longitude": -8.68333
+  },
+  {
+    "Locations": "Carmona",
+    "Latitude": 37.46667,
+    "Longitude": -5.7
+  },
+  {
+    "Locations": "Cartagena",
+    "Latitude": 37.63333,
+    "Longitude": -0.98333
+  },
+  {
+    "Locations": "Caspe",
+    "Latitude": 41.23333,
+    "Longitude": -0.01667
+  },
+  {
+    "Locations": "Castello de la Plana",
+    "Latitude": 39.96667,
+    "Longitude": -0.05
+  },
+  {
+    "Locations": "Castilla-La Mancha",
+    "Latitude": 39.5,
+    "Longitude": -3.5
+  },
+  {
+    "Locations": "Castilla y Leon",
+    "Latitude": 42,
+    "Longitude": -5
+  },
+  {
+    "Locations": "Castuera",
+    "Latitude": 38.71667,
+    "Longitude": -5.61667
+  },
+  {
+    "Locations": "Catalonia/Cataluna",
+    "Latitude": 41.66667,
+    "Longitude": 1.25
+  },
+  {
+    "Locations": "Cataluna",
+    "Latitude": 41.66667,
+    "Longitude": 1.25
+  },
+  {
+    "Locations": "Cervera",
+    "Latitude": 41.66667,
+    "Longitude": 1.26667
+  },
+  {
+    "Locations": "Chantada",
+    "Latitude": 42.6,
+    "Longitude": -7.76667
+  },
+  {
+    "Locations": "Chiclana de la Frontera",
+    "Latitude": 36.43333,
+    "Longitude": -6.15
+  },
+  {
+    "Locations": "Cieza",
+    "Latitude": 38.28333,
+    "Longitude": -1.38333
+  },
+  {
+    "Locations": "Cijara, Embalse de",
+    "Latitude": 39.3,
+    "Longitude": -4.86667
+  },
+  {
+    "Locations": "Cinca",
+    "Latitude": 41.43333,
+    "Longitude": 0.35
+  },
+  {
+    "Locations": "Ciudad Real",
+    "Latitude": 38.98333,
+    "Longitude": -3.91667
+  },
+  {
+    "Locations": "Ciudad Rodrigo",
+    "Latitude": 40.58333,
+    "Longitude": -6.36667
+  },
+  {
+    "Locations": "Ciudadela",
+    "Latitude": 40,
+    "Longitude": 3.83333
+  },
+  {
+    "Locations": "Coin",
+    "Latitude": 36.66667,
+    "Longitude": -4.8
+  },
+  {
+    "Locations": "Colom, I, de'en",
+    "Latitude": 39.96667,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Colonia de Sant Jordi",
+    "Latitude": 39.31667,
+    "Longitude": 2.98333
+  },
+  {
+    "Locations": "Columbrates, Is.",
+    "Latitude": 39.83333,
+    "Longitude": 0.83333
+  },
+  {
+    "Locations": "Conejera, I./Conills, I.des",
+    "Latitude": 39.18333,
+    "Longitude": 2.96667
+  },
+  {
+    "Locations": "Conills, I.des",
+    "Latitude": 39.18333,
+    "Longitude": 2.96667
+  },
+  {
+    "Locations": "Corcubion",
+    "Latitude": 42.93333,
+    "Longitude": -9.2
+  },
+  {
+    "Locations": "Cordoba",
+    "Latitude": 37.83333,
+    "Longitude": -4.83333
+  },
+  {
+    "Locations": "Coria",
+    "Latitude": 39.96667,
+    "Longitude": -6.55
+  },
+  {
+    "Locations": "Corunna/A Coruna",
+    "Latitude": 43.33333,
+    "Longitude": -8.41667
+  },
+  {
+    "Locations": "Costa Blanca",
+    "Latitude": 38.41667,
+    "Longitude": -0.16667
+  },
+  {
+    "Locations": "Costa Brava",
+    "Latitude": 41.5,
+    "Longitude": 3
+  },
+  {
+    "Locations": "Costa del Sol",
+    "Latitude": 36.5,
+    "Longitude": -4.5
+  },
+  {
+    "Locations": "Costa Dorada",
+    "Latitude": 41.2,
+    "Longitude": 1.25
+  },
+  {
+    "Locations": "Creus, C. de ",
+    "Latitude": 42.33333,
+    "Longitude": 3.31667
+  },
+  {
+    "Locations": "Cuenca",
+    "Latitude": 40.08333,
+    "Longitude": -2.16667
+  },
+  {
+    "Locations": "Cuenca, Serrania de",
+    "Latitude": 39.91667,
+    "Longitude": -1.83333
+  },
+  {
+    "Locations": "Cuevas del Almanzora",
+    "Latitude": 37.3,
+    "Longitude": -1.96667
+  },
+  {
+    "Locations": "Cullera",
+    "Latitude": 39.15,
+    "Longitude": -0.28333
+  },
+  {
+    "Locations": "Cunillera, I./Sa Conillera",
+    "Latitude": 38.98333,
+    "Longitude": 1.21667
+  },
+  {
+    "Locations": "Damiel",
+    "Latitude": 39.06667,
+    "Longitude": -3.61667
+  },
+  {
+    "Locations": "Dartuch, C./Artrutx, C. de",
+    "Latitude": 39.91667,
+    "Longitude": 3.81667
+  },
+  {
+    "Locations": "Demanda, Sierra de la",
+    "Latitude": 42.25,
+    "Longitude": -3
+  },
+  {
+    "Locations": "Denia",
+    "Latitude": 38.81667,
+    "Longitude": 0.13333
+  },
+  {
+    "Locations": "Despenaperros, Paso",
+    "Latitude": 38.4,
+    "Longitude": -3.5
+  },
+  {
+    "Locations": "Donostia/Donostia-san Sebastian",
+    "Latitude": 43.28333,
+    "Longitude": -1.96667
+  },
+  {
+    "Locations": "Donostia-san Sebastian",
+    "Latitude": 43.28333,
+    "Longitude": -1.96667
+  },
+  {
+    "Locations": "Dos Hermanas",
+    "Latitude": 37.26667,
+    "Longitude": -5.91667
+  },
+  {
+    "Locations": "Ebro",
+    "Latitude": 40.71667,
+    "Longitude": 0.9
+  },
+  {
+    "Locations": "Ecija",
+    "Latitude": 37.5,
+    "Longitude": -5.16667
+  },
+  {
+    "Locations": "Eibar",
+    "Latitude": 43.18333,
+    "Longitude": -2.46667
+  },
+  {
+    "Locations": "Eivissa",
+    "Latitude": 38.9,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "El Escorial",
+    "Latitude": 40.58333,
+    "Longitude": -4.11667
+  },
+  {
+    "Locations": "El Ferrol/Ferrol",
+    "Latitude": 43.48333,
+    "Longitude": -8.25
+  },
+  {
+    "Locations": "El Maestrazgo",
+    "Latitude": 40.5,
+    "Longitude": -0.41667
+  },
+  {
+    "Locations": "El Prat de Llobregat",
+    "Latitude": 41.3,
+    "Longitude": 2.05
+  },
+  {
+    "Locations": "El Puerto de Santa Maria",
+    "Latitude": 36.6,
+    "Longitude": -6.21667
+  },
+  {
+    "Locations": "Elche",
+    "Latitude": 38.25,
+    "Longitude": -0.7
+  },
+  {
+    "Locations": "Elda",
+    "Latitude": 38.48333,
+    "Longitude": -0.78333
+  },
+  {
+    "Locations": "Elx/Elche",
+    "Latitude": 38.25,
+    "Longitude": -0.7
+  },
+  {
+    "Locations": "Ensiola, Pta. De n',",
+    "Latitude": 39.11667,
+    "Longitude": 2.91667
+  },
+  {
+    "Locations": "Eresma",
+    "Latitude": 41.43333,
+    "Longitude": -4.75
+  },
+  {
+    "Locations": "Es Calo",
+    "Latitude": 38.66667,
+    "Longitude": 1.5
+  },
+  {
+    "Locations": "Es Cannar",
+    "Latitude": 39.03333,
+    "Longitude": 1.6
+  },
+  {
+    "Locations": "Es Mercadal",
+    "Latitude": 39.98333,
+    "Longitude": 4.08333
+  },
+  {
+    "Locations": "Es Migjorn Gran",
+    "Latitude": 39.95,
+    "Longitude": 4.05
+  },
+  {
+    "Locations": "Es Vedra",
+    "Latitude": 38.86667,
+    "Longitude": 1.2
+  },
+  {
+    "Locations": "Esla",
+    "Latitude": 41.48333,
+    "Longitude": -6.05
+  },
+  {
+    "Locations": "Estellencs",
+    "Latitude": 39.65,
+    "Longitude": 2.48333
+  },
+  {
+    "Locations": "Europa, Picos de",
+    "Latitude": 43.16667,
+    "Longitude": -4.81667
+  },
+  {
+    "Locations": "Extremadura",
+    "Latitude": 39.5,
+    "Longitude": -6.08333
+  },
+  {
+    "Locations": "Falco, C. des",
+    "Latitude": 38.83333,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "Farruch, C./Ferrutx, C.",
+    "Latitude": 39.78333,
+    "Longitude": 3.35
+  },
+  {
+    "Locations": "Favaritx, C. de ",
+    "Latitude": 40,
+    "Longitude": 4.25
+  },
+  {
+    "Locations": "Felanitx",
+    "Latitude": 39.46667,
+    "Longitude": 3.15
+  },
+  {
+    "Locations": "Ferrerias",
+    "Latitude": 39.98333,
+    "Longitude": 4.01667
+  },
+  {
+    "Locations": "Ferrol",
+    "Latitude": 43.48333,
+    "Longitude": -8.25
+  },
+  {
+    "Locations": "Ferrutx, C.",
+    "Latitude": 39.78333,
+    "Longitude": 3.35
+  },
+  {
+    "Locations": "Figueres",
+    "Latitude": 42.3,
+    "Longitude": 2.96667
+  },
+  {
+    "Locations": "Finisterre, C./Fisterra, C.",
+    "Latitude": 42.83333,
+    "Longitude": -9.31667
+  },
+  {
+    "Locations": "Fisterra, C.",
+    "Latitude": 42.83333,
+    "Longitude": -9.31667
+  },
+  {
+    "Locations": "Fonsagrada/A Fonsagrada",
+    "Latitude": 43.13333,
+    "Longitude": -7.06667
+  },
+  {
+    "Locations": "Fomentera",
+    "Latitude": 38.71667,
+    "Longitude": 1.45
+  },
+  {
+    "Locations": "Formentor, C. de ",
+    "Latitude": 39.96667,
+    "Longitude": 3.21667
+  },
+  {
+    "Locations": "Fornells",
+    "Latitude": 40.05,
+    "Longitude": 4.11667
+  },
+  {
+    "Locations": "Fregenal de la Sierra",
+    "Latitude": 38.16667,
+    "Longitude": -6.65
+  },
+  {
+    "Locations": "Fuengirola",
+    "Latitude": 36.53333,
+    "Longitude": -4.68333
+  },
+  {
+    "Locations": "Fuentes de Onoro",
+    "Latitude": 40.55,
+    "Longitude": -6.86667
+  },
+  {
+    "Locations": "Furnas",
+    "Latitude": 39.05,
+    "Longitude": 1.53333
+  },
+  {
+    "Locations": "Galicia",
+    "Latitude": 42.71667,
+    "Longitude": -7.75
+  },
+  {
+    "Locations": "Gallego",
+    "Latitude": 41.65,
+    "Longitude": -0.85
+  },
+  {
+    "Locations": "Gandia",
+    "Latitude": 38.96667,
+    "Longitude": -0.15
+  },
+  {
+    "Locations": "Geastiz/Vitoria-Gasteiz",
+    "Latitude": 42.83333,
+    "Longitude": -2.68333
+  },
+  {
+    "Locations": "Gata, C. de",
+    "Latitude": 36.68333,
+    "Longitude": -2.21667
+  },
+  {
+    "Locations": "Gata, Sierra de",
+    "Latitude": 40.33333,
+    "Longitude": -6.75
+  },
+  {
+    "Locations": "Genil",
+    "Latitude": 37.7,
+    "Longitude": -5.31667
+  },
+  {
+    "Locations": "Gernika-Lumo",
+    "Latitude": 43.31667,
+    "Longitude": -2.66667
+  },
+  {
+    "Locations": "Gerona/Girona",
+    "Latitude": 41.96667,
+    "Longitude": 2.76667
+  },
+  {
+    "Locations": "Getafe",
+    "Latitude": 40.3,
+    "Longitude": -3.73333
+  },
+  {
+    "Locations": "Getxo",
+    "Latitude": 43.35,
+    "Longitude": -2.98333
+  },
+  {
+    "Locations": "Gijon",
+    "Latitude": 43.53333,
+    "Longitude": -5.7
+  },
+  {
+    "Locations": "Girona",
+    "Latitude": 41.96667,
+    "Longitude": 2.76667
+  },
+  {
+    "Locations": "Grado",
+    "Latitude": 43.38333,
+    "Longitude": -6.06667
+  },
+  {
+    "Locations": "Granada",
+    "Latitude": 37.16667,
+    "Longitude": -3.58333
+  },
+  {
+    "Locations": "Granollers",
+    "Latitude": 41.65,
+    "Longitude": 2.3
+  },
+  {
+    "Locations": "Gredos, Sierra de",
+    "Latitude": 40.33333,
+    "Longitude": -5
+  },
+  {
+    "Locations": "Grossa, Pta.",
+    "Latitude": 39.1,
+    "Longitude": 1.6
+  },
+  {
+    "Locations": "Guadalajara",
+    "Latitude": 40.61667,
+    "Longitude": -3.2
+  },
+  {
+    "Locations": "Guadalete",
+    "Latitude": 36.58333,
+    "Longitude": -6.21667
+  },
+  {
+    "Locations": "Guadalquivir",
+    "Latitude": 36.78333,
+    "Longitude": -6.36667
+  },
+  {
+    "Locations": "Guadalupe, Sierra de",
+    "Latitude": 39.46667,
+    "Longitude": -5.5
+  },
+  {
+    "Locations": "Guadarrama, Sierra de",
+    "Latitude": 41,
+    "Longitude": -4
+  },
+  {
+    "Locations": "Guadix",
+    "Latitude": 37.3,
+    "Longitude": -3.18333
+  },
+  {
+    "Locations": "Guecho/Getxo ",
+    "Latitude": 43.35,
+    "Longitude": -2.98333
+  },
+  {
+    "Locations": "Guernica/Gernika-Lumo",
+    "Latitude": 43.31667,
+    "Longitude": -2.66667
+  },
+  {
+    "Locations": "Hellin",
+    "Latitude": 38.51667,
+    "Longitude": -1.66667
+  },
+  {
+    "Locations": "Henares",
+    "Latitude": 40.4,
+    "Longitude": -3.5
+  },
+  {
+    "Locations": "Hinojosa del Duque",
+    "Latitude": 38.5,
+    "Longitude": -5.15
+  },
+  {
+    "Locations": "Huelva",
+    "Latitude": 37.3,
+    "Longitude": -6.95
+  },
+  {
+    "Locations": "Huesca",
+    "Latitude": 42.13333,
+    "Longitude": -0.41667
+  },
+  {
+    "Locations": "Ibiza/Eivissa",
+    "Latitude": 38.9,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "Igualada",
+    "Latitude": 41.61667,
+    "Longitude": 1.61667
+  },
+  {
+    "Locations": "Illetas",
+    "Latitude": 39.53333,
+    "Longitude": 2.41667
+  },
+  {
+    "Locations": "Inca",
+    "Latitude": 39.71667,
+    "Longitude": 2.9
+  },
+  {
+    "Locations": "Irun",
+    "Latitude": 43.33333,
+    "Longitude": -1.86667
+  },
+  {
+    "Locations": "Irunea/Pamplona",
+    "Latitude": 42.8,
+    "Longitude": -1.63333
+  },
+  {
+    "Locations": "Jaca",
+    "Latitude": 42.58333,
+    "Longitude": -0.55
+  },
+  {
+    "Locations": "Jaen",
+    "Latitude": 37.73333,
+    "Longitude": -3.79028
+  },
+  {
+    "Locations": "Jalon",
+    "Latitude": 41.78333,
+    "Longitude": -1.06667
+  },
+  {
+    "Locations": "Jarama",
+    "Latitude": 40.4,
+    "Longitude": -3.53333
+  },
+  {
+    "Locations": "Jativa/Xativa",
+    "Latitude": 38.98333,
+    "Longitude": -0.53333
+  },
+  {
+    "Locations": "Jerez de la Frontera",
+    "Latitude": 38.33333,
+    "Longitude": -6.75
+  },
+  {
+    "Locations": "Jerez de los Caballeros",
+    "Latitude": 31.86667,
+    "Longitude": -6.77101
+  },
+  {
+    "Locations": "Jucar/Xuquer",
+    "Latitude": 39.08333,
+    "Longitude": -0.16667
+  },
+  {
+    "Locations": "Jumilla",
+    "Latitude": 38.46667,
+    "Longitude": -1.31667
+  },
+  {
+    "Locations": "La Alcarria",
+    "Latitude": 40.51667,
+    "Longitude": -2.75
+  },
+  {
+    "Locations": "La Canal/Sa Canal",
+    "Latitude": 38.85,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "La Coruna/A Coruna",
+    "Latitude": 43.33333,
+    "Longitude": -8.41667
+  },
+  {
+    "Locations": "La Estrada/A Estrada",
+    "Latitude": 42.71667,
+    "Longitude": -8.45
+  },
+  {
+    "Locations": "La Linea de la Concepcion",
+    "Latitude": 36.25,
+    "Longitude": -5.38333
+  },
+  {
+    "Locations": "La Mancha",
+    "Latitude": 39.16667,
+    "Longitude": -2.9
+  },
+  {
+    "Locations": "La Palma del Condado",
+    "Latitude": 37.35,
+    "Longitude": -6.63333
+  },
+  {
+    "Locations": "La Rioja",
+    "Latitude": 42.33333,
+    "Longitude": -2.33333
+  },
+  {
+    "Locations": "La Robla",
+    "Latitude": 42.83333,
+    "Longitude": -5.68333
+  },
+  {
+    "Locations": "La Roda",
+    "Latitude": 39.31667,
+    "Longitude": -2.25
+  },
+  {
+    "Locations": "La Sabina/Sa Savina ",
+    "Latitude": 38.73333,
+    "Longitude": -1.41667
+  },
+  {
+    "Locations": "La Seu d'Urgell",
+    "Latitude": 42.36667,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "La Vall d'Uixo",
+    "Latitude": 39.81667,
+    "Longitude": -0.25
+  },
+  {
+    "Locations": "L'Albufera",
+    "Latitude": 39.33333,
+    "Longitude": -0.45
+  },
+  {
+    "Locations": "Lalin",
+    "Latitude": 42.66667,
+    "Longitude": -8.08333
+  },
+  {
+    "Locations": "Langreo",
+    "Latitude": 43.3,
+    "Longitude": -5.66667
+  },
+  {
+    "Locations": "Lebrija",
+    "Latitude": 36.88333,
+    "Longitude": -6.08333
+  },
+  {
+    "Locations": "Leganes",
+    "Latitude": 40.31667,
+    "Longitude": -3.75
+  },
+  {
+    "Locations": "Leon",
+    "Latitude": 42.63333,
+    "Longitude": -5.56667
+  },
+  {
+    "Locations": "Leon, Montes de",
+    "Latitude": 42.5,
+    "Longitude": -6.3
+  },
+  {
+    "Locations": "Lerida/Lleida",
+    "Latitude": 41.61667,
+    "Longitude": 0.65
+  },
+  {
+    "Locations": "L'Hospitalet de Llobgregat",
+    "Latitude": 41.35,
+    "Longitude": 2.1
+  },
+  {
+    "Locations": "Linares",
+    "Latitude": 38.16667,
+    "Longitude": -3.66667
+  },
+  {
+    "Locations": "Liria, Lliria",
+    "Latitude": 39.61667,
+    "Longitude": -0.58333
+  },
+  {
+    "Locations": "Llanes",
+    "Latitude": 43.41982,
+    "Longitude": -4.16667
+  },
+  {
+    "Locations": "Llebeig C. des",
+    "Latitude": 39.55,
+    "Longitude": 2.3
+  },
+  {
+    "Locations": "Llentrisca, C.",
+    "Latitude": 38.86667,
+    "Longitude": 1.25
+  },
+  {
+    "Locations": "Llria ",
+    "Latitude": 39.61667,
+    "Longitude": -0.58333
+  },
+  {
+    "Locations": "Llobregat ",
+    "Latitude": 41.31667,
+    "Longitude": 2.15
+  },
+  {
+    "Locations": "Lloret de Mar",
+    "Latitude": 41.68333,
+    "Longitude": 2.88333
+  },
+  {
+    "Locations": "Logrono ",
+    "Latitude": 42.46667,
+    "Longitude": -2.45
+  },
+  {
+    "Locations": "Loja",
+    "Latitude": 37.16667,
+    "Longitude": -4.16667
+  },
+  {
+    "Locations": "Lora del Ro",
+    "Latitude": 37.65,
+    "Longitude": -5.55
+  },
+  {
+    "Locations": "Lorca",
+    "Latitude": 37.68333,
+    "Longitude": -1.7
+  },
+  {
+    "Locations": "Luarca",
+    "Latitude": 43.53333,
+    "Longitude": -6.53333
+  },
+  {
+    "Locations": "Lucena ",
+    "Latitude": 37.45,
+    "Longitude": -4.51667
+  },
+  {
+    "Locations": "Lugo",
+    "Latitude": 43.03333,
+    "Longitude": -7.58333
+  },
+  {
+    "Locations": "Madrid",
+    "Latitude": 40.41667,
+    "Longitude": -3.75
+  },
+  {
+    "Locations": "Mahon/Mao",
+    "Latitude": 39.88333,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Majorca/Mallorca",
+    "Latitude": 39.5,
+    "Longitude": 3
+  },
+  {
+    "Locations": "Malaga",
+    "Latitude": 36.71667,
+    "Longitude": -4.38333
+  },
+  {
+    "Locations": "Mallorca",
+    "Latitude": 39.5,
+    "Longitude": 3
+  },
+  {
+    "Locations": "Manocor",
+    "Latitude": 39.56667,
+    "Longitude": 3.21667
+  },
+  {
+    "Locations": "Manressa",
+    "Latitude": 41.8,
+    "Longitude": 1.83333
+  },
+  {
+    "Locations": "Manzanaares",
+    "Latitude": 39.03333,
+    "Longitude": -3.36667
+  },
+  {
+    "Locations": "Mao ",
+    "Latitude": 39.88333,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Mar Menor",
+    "Latitude": 37.66667,
+    "Longitude": -0.75
+  },
+  {
+    "Locations": "Marbella",
+    "Latitude": 36.5,
+    "Longitude": -4.95
+  },
+  {
+    "Locations": "Marchena",
+    "Latitude": 37.3,
+    "Longitude": -5.38333
+  },
+  {
+    "Locations": "Marin",
+    "Latitude": 42.38333,
+    "Longitude": -8.7
+  },
+  {
+    "Locations": "Martos",
+    "Latitude": 37.73333,
+    "Longitude": -3.96667
+  },
+  {
+    "Locations": "Massanella",
+    "Latitude": 39.8,
+    "Longitude": 2.85
+  },
+  {
+    "Locations": "Mataro ",
+    "Latitude": 41.53333,
+    "Longitude": 2.48333
+  },
+  {
+    "Locations": "Mazarron",
+    "Latitude": 37.63333,
+    "Longitude": -1.31667
+  },
+  {
+    "Locations": "Medina del Campo",
+    "Latitude": 41.3,
+    "Longitude": -4.91667
+  },
+  {
+    "Locations": "Medina Sidonia ",
+    "Latitude": 36.46667,
+    "Longitude": -5.95
+  },
+  {
+    "Locations": "Menorca",
+    "Latitude": 40,
+    "Longitude": 4
+  },
+  {
+    "Locations": "Merida",
+    "Latitude": 38.91667,
+    "Longitude": -6.41667
+  },
+  {
+    "Locations": "Mieres",
+    "Latitude": 4.3,
+    "Longitude": -5.8
+  },
+  {
+    "Locations": "Minho/Mino",
+    "Latitude": 41.86667,
+    "Longitude": -8.66667
+  },
+  {
+    "Locations": "Mino",
+    "Latitude": 41.86667,
+    "Longitude": -8.66667
+  },
+  {
+    "Locations": "Minorca/Menorca",
+    "Latitude": 40,
+    "Longitude": 4
+  },
+  {
+    "Locations": "Miranda de Ebro ",
+    "Latitude": 42.68333,
+    "Longitude": -2.95
+  },
+  {
+    "Locations": "Moncayo, Sierra del",
+    "Latitude": 41.8,
+    "Longitude": -1.83333
+  },
+  {
+    "Locations": "Monforte de Lemos",
+    "Latitude": 42.51667,
+    "Longitude": -7.55
+  },
+  {
+    "Locations": "Montalban ",
+    "Latitude": 40.83333,
+    "Longitude": -0.75
+  },
+  {
+    "Locations": "Montilla",
+    "Latitude": 37.6,
+    "Longitude": -4.66667
+  },
+  {
+    "Locations": "Montoro",
+    "Latitude": 38.01667,
+    "Longitude": -4.45
+  },
+  {
+    "Locations": "Montuiri",
+    "Latitude": 39.56667,
+    "Longitude": 2.98333
+  },
+  {
+    "Locations": "monzon ",
+    "Latitude": 41.86667,
+    "Longitude": 0.16667
+  },
+  {
+    "Locations": "Morella ",
+    "Latitude": 40.58333,
+    "Longitude": -0.08333
+  },
+  {
+    "Locations": "Morena Sierra",
+    "Latitude": 38.33333,
+    "Longitude": -4
+  },
+  {
+    "Locations": "Morey ",
+    "Latitude": 39.73333,
+    "Longitude": 3.33333
+  },
+  {
+    "Locations": "Moron de la Frontera",
+    "Latitude": 37.1,
+    "Longitude": -5.46667
+  },
+  {
+    "Locations": "Motril",
+    "Latitude": 36.51667,
+    "Longitude": -3.61667
+  },
+  {
+    "Locations": "Mula",
+    "Latitude": 38.05,
+    "Longitude": -1.55
+  },
+  {
+    "Locations": "Mulhacen",
+    "Latitude": 37.06667,
+    "Longitude": -3.33333
+  },
+  {
+    "Locations": "Murcia ",
+    "Latitude": 38.08333,
+    "Longitude": -1.16667
+  },
+  {
+    "Locations": "Murcia ",
+    "Latitude": 37.83333,
+    "Longitude": -1.5
+  },
+  {
+    "Locations": "Muro",
+    "Latitude": 39.73333,
+    "Longitude": 3.05
+  },
+  {
+    "Locations": "Nao C. de la",
+    "Latitude": 38.73333,
+    "Longitude": 0.23333
+  },
+  {
+    "Locations": "Nati Pta",
+    "Latitude": 40.05,
+    "Longitude": 3.83333
+  },
+  {
+    "Locations": "Navalmoral de la Mata",
+    "Latitude": 39.86667,
+    "Longitude": -5.55
+  },
+  {
+    "Locations": "Navarra",
+    "Latitude": 42.66667,
+    "Longitude": -1.66667
+  },
+  {
+    "Locations": "New Castile/Castilla -La Macha",
+    "Latitude": 39.5,
+    "Longitude": -3.5
+  },
+  {
+    "Locations": "Ocana ",
+    "Latitude": 39.91667,
+    "Longitude": -3.5
+  },
+  {
+    "Locations": "Old Castile/Castilla Y Leon",
+    "Latitude": 42,
+    "Longitude": -5
+  },
+  {
+    "Locations": "Okivenza",
+    "Latitude": 38.68333,
+    "Longitude": -7.15
+  },
+  {
+    "Locations": "Olot ",
+    "Latitude": 42.18333,
+    "Longitude": 2.5
+  },
+  {
+    "Locations": "Onda ",
+    "Latitude": null,
+    "Longitude": -0.28333
+  },
+  {
+    "Locations": "Orense/Oursense",
+    "Latitude": 42.31667,
+    "Longitude": -7.91667
+  },
+  {
+    "Locations": "Oragaz",
+    "Latitude": 39.65,
+    "Longitude": -3.88333
+  },
+  {
+    "Locations": "Orihuela ",
+    "Latitude": 38.11667,
+    "Longitude": -0.91667
+  },
+  {
+    "Locations": "Ortegal C.",
+    "Latitude": 43.71667,
+    "Longitude": -7.86667
+  },
+  {
+    "Locations": "Ortigueira",
+    "Latitude": 43.66667,
+    "Longitude": -7.83333
+  },
+  {
+    "Locations": "Osuna",
+    "Latitude": 37.23333,
+    "Longitude": -5.13333
+  },
+  {
+    "Locations": "Ourense",
+    "Latitude": 42.31667,
+    "Longitude": -7.91667
+  },
+  {
+    "Locations": "Oviedo",
+    "Latitude": 43.41667,
+    "Longitude": -5.83333
+  },
+  {
+    "Locations": "Pais Vasco",
+    "Latitude": 42.83333,
+    "Longitude": -2.75
+  },
+  {
+    "Locations": "Pajares Puerto de ",
+    "Latitude": 42.96667,
+    "Longitude": -5.76667
+  },
+  {
+    "Locations": "Palencia",
+    "Latitude": 42.01667,
+    "Longitude": -4.56667
+  },
+  {
+    "Locations": "Palma B. de.",
+    "Latitude": 39.5,
+    "Longitude": 2.65
+  },
+  {
+    "Locations": "Palma de Mallorca ",
+    "Latitude": 39.58333,
+    "Longitude": 2.65
+  },
+  {
+    "Locations": "Palos C. de",
+    "Latitude": 37.63333,
+    "Longitude": -0.66667
+  },
+  {
+    "Locations": "Pamplona",
+    "Latitude": 42.8,
+    "Longitude": -1.63333
+  },
+  {
+    "Locations": "Parla",
+    "Latitude": 40.23333,
+    "Longitude": -3.76667
+  },
+  {
+    "Locations": "Pas Pta. Des",
+    "Latitude": 38.76667,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "Penarroya-Pueblonuevo",
+    "Latitude": 38.31667,
+    "Longitude": -5.26667
+  },
+  {
+    "Locations": "Penas C. de ",
+    "Latitude": 43.7,
+    "Longitude": -5.86667
+  },
+  {
+    "Locations": "Perdido Mte",
+    "Latitude": 42.66667,
+    "Longitude": 0.08333
+  },
+  {
+    "Locations": "Perdu Mt./Perdido Mte",
+    "Latitude": 42.66667,
+    "Longitude": 0.08333
+  },
+  {
+    "Locations": "Petra",
+    "Latitude": 39.61667,
+    "Longitude": 3.1
+  },
+  {
+    "Locations": "Pisuerga",
+    "Latitude": 41.55,
+    "Longitude": -4.86667
+  },
+  {
+    "Locations": "Plasencia",
+    "Latitude": 40.05,
+    "Longitude": -6.13333
+  },
+  {
+    "Locations": "Pollenca",
+    "Latitude": 39.9,
+    "Longitude": 3.01667
+  },
+  {
+    "Locations": "Pollenca B. de",
+    "Latitude": 39.88333,
+    "Longitude": 3.13333
+  },
+  {
+    "Locations": "Ponferrada",
+    "Latitude": 42.53333,
+    "Longitude": -6.58333
+  },
+  {
+    "Locations": "Pontevedra",
+    "Latitude": 42.43333,
+    "Longitude": -8.66667
+  },
+  {
+    "Locations": "Porreres",
+    "Latitude": 39.51667,
+    "Longitude": 3.03333
+  },
+  {
+    "Locations": "Port d'Alcudia",
+    "Latitude": 39.83333,
+    "Longitude": 3.11667
+  },
+  {
+    "Locations": "Port d'Andratx",
+    "Latitude": 39.53333,
+    "Longitude": 2.38333
+  },
+  {
+    "Locations": "Port de Pollenca",
+    "Latitude": 39.8,
+    "Longitude": 2.7
+  },
+  {
+    "Locations": "Port de Soller",
+    "Latitude": 39.8,
+    "Longitude": 2.7
+  },
+  {
+    "Locations": "Portbou",
+    "Latitude": 42.41667,
+    "Longitude": 3.15
+  },
+  {
+    "Locations": "Porto Cirsto",
+    "Latitude": 39.55,
+    "Longitude": 3.33333
+  },
+  {
+    "Locations": "Porto Petro",
+    "Latitude": 39.36667,
+    "Longitude": 3.21667
+  },
+  {
+    "Locations": "Pozoblanco",
+    "Latitude": 38.38333,
+    "Longitude": -4.85
+  },
+  {
+    "Locations": "Pravia ",
+    "Latitude": 43.5,
+    "Longitude": -6.2
+  },
+  {
+    "Locations": "Puente-Genil",
+    "Latitude": 37.36667,
+    "Longitude": -4.78333
+  },
+  {
+    "Locations": "Puerto de Alcudia/Portd'Alcudia ",
+    "Latitude": 39.83333,
+    "Longitude": 3.11667
+  },
+  {
+    "Locations": "Puerto de Cabrera ",
+    "Latitude": 39.13333,
+    "Longitude": 2.93333
+  },
+  {
+    "Locations": "Puerto de Soller/Port de Soller ",
+    "Latitude": 39.8,
+    "Longitude": 2.7
+  },
+  {
+    "Locations": "Puerto Pollensa/Port de Pollenca",
+    "Latitude": 39.9,
+    "Longitude": 3.06667
+  },
+  {
+    "Locations": "Puertollano",
+    "Latitude": 38.71667,
+    "Longitude": -4.11667
+  },
+  {
+    "Locations": "Puig Major",
+    "Latitude": 39.8,
+    "Longitude": 2.78333
+  },
+  {
+    "Locations": "Puigcerda ",
+    "Latitude": 42.4,
+    "Longitude": 1.83333
+  },
+  {
+    "Locations": "Puigpunyent ",
+    "Latitude": 39.63333,
+    "Longitude": 2.53333
+  },
+  {
+    "Locations": "Punta Prima",
+    "Latitude": 39.8,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Quintanar de la Orden ",
+    "Latitude": 39.6,
+    "Longitude": -3.08333
+  },
+  {
+    "Locations": "Redondela",
+    "Latitude": 42.25,
+    "Longitude": -8.63333
+  },
+  {
+    "Locations": "Reinosa",
+    "Latitude": 43.03333,
+    "Longitude": -4.25
+  },
+  {
+    "Locations": "Renteria",
+    "Latitude": 43.31667,
+    "Longitude": -1.9
+  },
+  {
+    "Locations": "Requena ",
+    "Latitude": 39.5,
+    "Longitude": -1.06667
+  },
+  {
+    "Locations": "Reus",
+    "Latitude": 41.16667,
+    "Longitude": 1.08333
+  },
+  {
+    "Locations": "Ribadeo",
+    "Latitude": 43.58333,
+    "Longitude": -7.08333
+  },
+  {
+    "Locations": "Ronda",
+    "Latitude": 36.76667,
+    "Longitude": -5.2
+  },
+  {
+    "Locations": "Roquetas de Mar",
+    "Latitude": 36.76667,
+    "Longitude": -2.6
+  },
+  {
+    "Locations": "Roses G. de",
+    "Latitude": 42.16667,
+    "Longitude": 3.25
+  },
+  {
+    "Locations": "Sa Canal",
+    "Latitude": 38.85,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "Sa Conillera",
+    "Latitude": 38.98333,
+    "Longitude": 1.21667
+  },
+  {
+    "Locations": "Sa Dragonera",
+    "Latitude": 39.91667,
+    "Longitude": 2.31667
+  },
+  {
+    "Locations": "Sa Mesquida",
+    "Latitude": 39.91667,
+    "Longitude": 4.26667
+  },
+  {
+    "Locations": "Sa Savina",
+    "Latitude": 38.73333,
+    "Longitude": 1.41667
+  },
+  {
+    "Locations": "Sahagun",
+    "Latitude": 42.3,
+    "Longitude": -5.03333
+  },
+  {
+    "Locations": "Salines C. de ses",
+    "Latitude": 39.26667,
+    "Longitude": 3.06667
+  },
+  {
+    "Locations": "Saline C. de ses, ",
+    "Latitude": 39.26667,
+    "Longitude": 3.06667
+  },
+  {
+    "Locations": "San Carlos/Sant Carles",
+    "Latitude": 39.05,
+    "Longitude": 1.56667
+  },
+  {
+    "Locations": "San Juan Bautista/Sant Joan Baptista",
+    "Latitude": 39.08333,
+    "Longitude": 1.51667
+  },
+  {
+    "Locations": "San Mateo/Sant Mateu",
+    "Latitude": 39.05,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "San Miguel/Sant Miguel",
+    "Latitude": 39.05,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "San Roque",
+    "Latitude": 36.28333,
+    "Longitude": -5.35
+  },
+  {
+    "Locations": "San Salvador",
+    "Latitude": 39.45,
+    "Longitude": 3.18333
+  },
+  {
+    "Locations": "San Serra/Son Serra",
+    "Latitude": 39.71667,
+    "Longitude": 3.21667
+  },
+  {
+    "Locations": "San Telmo/Sant Telm",
+    "Latitude": 39.58333,
+    "Longitude": 2.35
+  },
+  {
+    "Locations": "Sant Antoni Abat",
+    "Latitude": 38.98333,
+    "Longitude": 1.31667
+  },
+  {
+    "Locations": "Sant Carles",
+    "Latitude": 39.05,
+    "Longitude": 1.56667
+  },
+  {
+    "Locations": "Sant Feliu de Guixols",
+    "Latitude": 41.75,
+    "Longitude": 3.01667
+  },
+  {
+    "Locations": "Sant Ferran ",
+    "Latitude": 38.7,
+    "Longitude": 1.46667
+  },
+  {
+    "Locations": "Sant Francesc de Formentera",
+    "Latitude": 38.7,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "Sant Jaume ",
+    "Latitude": 39.9,
+    "Longitude": 4.06667
+  },
+  {
+    "Locations": "Sant Joan Baptista",
+    "Latitude": 39.08333,
+    "Longitude": 1.51667
+  },
+  {
+    "Locations": "Sant Jordi Mallorca",
+    "Latitude": 39.55,
+    "Longitude": 2.76667
+  },
+  {
+    "Locations": "Sant Liorenc des Cardassar",
+    "Latitude": 39.61667,
+    "Longitude": 3.28333
+  },
+  {
+    "Locations": "Sant Mateu",
+    "Latitude": 39.05,
+    "Longitude": 1.38333
+  },
+  {
+    "Locations": "Sant Telm",
+    "Latitude": 39.58333,
+    "Longitude": 2.35
+  },
+  {
+    "Locations": "Santa Agnes",
+    "Latitude": 39.05,
+    "Longitude": 1.35
+  },
+  {
+    "Locations": "Santa Coloma de Gramenet",
+    "Latitude": 41.45,
+    "Longitude": 2.21667
+  },
+  {
+    "Locations": "Santa Gertrudis",
+    "Latitude": 39,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "Santa Margarita",
+    "Latitude": 39.7,
+    "Longitude": 3.1
+  },
+  {
+    "Locations": "Santander ",
+    "Latitude": 43.45,
+    "Longitude": -3.85
+  },
+  {
+    "Locations": "Santanyi ",
+    "Latitude": 39.33333,
+    "Longitude": 3.08333
+  },
+  {
+    "Locations": "Santiago de Compostela",
+    "Latitude": 42.86667,
+    "Longitude": -8.61667
+  },
+  {
+    "Locations": "Santona ",
+    "Latitude": 43.48333,
+    "Longitude": -3.45
+  },
+  {
+    "Locations": "Saragossa/Zaragoza",
+    "Latitude": 41.65,
+    "Longitude": -0.88333
+  },
+  {
+    "Locations": "S'Arenal ",
+    "Latitude": 39.5,
+    "Longitude": 2.75
+  },
+  {
+    "Locations": "Segovia ",
+    "Latitude": 40.95,
+    "Longitude": -4.16667
+  },
+  {
+    "Locations": "Segre",
+    "Latitude": 41.66667,
+    "Longitude": 0.71667
+  },
+  {
+    "Locations": "Segura",
+    "Latitude": 38.05,
+    "Longitude": -0.73333
+  },
+  {
+    "Locations": "Ses Salines",
+    "Latitude": 39.35,
+    "Longitude": 3.05
+  },
+  {
+    "Locations": "S'Espalmador",
+    "Latitude": 38.78333,
+    "Longitude": 1.43333
+  },
+  {
+    "Locations": "S'Espardell",
+    "Latitude": 38.8,
+    "Longitude": 1.48333
+  },
+  {
+    "Locations": "S'Estanyol ",
+    "Latitude": 39.36667,
+    "Longitude": 2.9
+  },
+  {
+    "Locations": "Sevilla ",
+    "Latitude": 37.38333,
+    "Longitude": -5.96667
+  },
+  {
+    "Locations": "Seville/Sevilla",
+    "Latitude": 37.38333,
+    "Longitude": -5.96667
+  },
+  {
+    "Locations": "Sil",
+    "Latitude": 42.45,
+    "Longitude": -7.71667
+  },
+  {
+    "Locations": "Sineu",
+    "Latitude": 39.63333,
+    "Longitude": 3.01667
+  },
+  {
+    "Locations": "Sitges",
+    "Latitude": 41.28333,
+    "Longitude": 1.78333
+  },
+  {
+    "Locations": "Somosierra, Puerto de, ",
+    "Latitude": 41.06667,
+    "Longitude": -3.58333
+  },
+  {
+    "Locations": "Somport, Puetro de",
+    "Latitude": 42.8,
+    "Longitude": -0.51667
+  },
+  {
+    "Locations": "Sorai",
+    "Latitude": 41.71667,
+    "Longitude": -2.53333
+  },
+  {
+    "Locations": "Tafalla",
+    "Latitude": 42.5,
+    "Longitude": -1.68333
+  },
+  {
+    "Locations": "Tagomago",
+    "Latitude": 39.03333,
+    "Longitude": 1.65
+  },
+  {
+    "Locations": "Talavera de la Reina ",
+    "Latitude": 39.91667,
+    "Longitude": -4.76667
+  },
+  {
+    "Locations": "Tamarinda",
+    "Latitude": 39.91667,
+    "Longitude": 3.81667
+  },
+  {
+    "Locations": "Tarragona",
+    "Latitude": 41.08333,
+    "Longitude": 1.28333
+  },
+  {
+    "Locations": "Ter",
+    "Latitude": 42.03333,
+    "Longitude": 3.2
+  },
+  {
+    "Locations": "Teruel",
+    "Latitude": 40.36667,
+    "Longitude": -1.13333
+  },
+  {
+    "Locations": "Tietar",
+    "Latitude": 39.83333,
+    "Longitude": -6.01667
+  },
+  {
+    "Locations": "Tormes",
+    "Latitude": 41.3,
+    "Longitude": -6.48333
+  },
+  {
+    "Locations": "Toro ",
+    "Latitude": 39.98333,
+    "Longitude": 4.13333
+  },
+  {
+    "Locations": "Torrejon de Ardoz ",
+    "Latitude": 40.45,
+    "Longitude": -3.48333
+  },
+  {
+    "Locations": "Torrelavega",
+    "Latitude": 36.63333,
+    "Longitude": -4.5
+  },
+  {
+    "Locations": "Torremolinos",
+    "Latitude": 36.63333,
+    "Longitude": -4.5
+  },
+  {
+    "Locations": "Torrent",
+    "Latitude": 39.45,
+    "Longitude": -0.46667
+  },
+  {
+    "Locations": "Tortosa",
+    "Latitude": 40.81667,
+    "Longitude": 0.51667
+  },
+  {
+    "Locations": "Tourinan C.",
+    "Latitude": 43.05,
+    "Longitude": -9.3
+  },
+  {
+    "Locations": "Trafalgar C.",
+    "Latitude": 36.16667,
+    "Longitude": -6.03333
+  },
+  {
+    "Locations": "Tremp",
+    "Latitude": 42.16667,
+    "Longitude": 0.86667
+  },
+  {
+    "Locations": "Tudela",
+    "Latitude": 42.06667,
+    "Longitude": -1.6
+  },
+  {
+    "Locations": "Tui ",
+    "Latitude": 42.05,
+    "Longitude": -8.65
+  },
+  {
+    "Locations": "Turia",
+    "Latitude": 39.45,
+    "Longitude": 0.31667
+  },
+  {
+    "Locations": "Tuy/Tui ",
+    "Latitude": 42.05,
+    "Longitude": -8.65
+  },
+  {
+    "Locations": "Ubeda",
+    "Latitude": 38.05,
+    "Longitude": -3.38333
+  },
+  {
+    "Locations": "Uttrera",
+    "Latitude": 37.2,
+    "Longitude": -5.8
+  },
+  {
+    "Locations": "Valdepenas",
+    "Latitude": 38.71667,
+    "Longitude": -3.41667
+  },
+  {
+    "Locations": "Valencia",
+    "Latitude": 39.33333,
+    "Longitude": -0.66667
+  },
+  {
+    "Locations": "Valnecia G. de",
+    "Latitude": 39.5,
+    "Longitude": 0.33333
+  },
+  {
+    "Locations": "Valencia de Alcantara",
+    "Latitude": 39.41667,
+    "Longitude": -7.23333
+  },
+  {
+    "Locations": "Valladolid",
+    "Latitude": 41.63333,
+    "Longitude": -4.71667
+  },
+  {
+    "Locations": "Valldemossa",
+    "Latitude": 39.71667,
+    "Longitude": 2.61667
+  },
+  {
+    "Locations": "Valls",
+    "Latitude": 41.3,
+    "Longitude": 1.25
+  },
+  {
+    "Locations": "Valverde del Camino",
+    "Latitude": 37.58333,
+    "Longitude": -6.78333
+  },
+  {
+    "Locations": "Vejer de La Frontera",
+    "Latitude": 36.25,
+    "Longitude": -5.98333
+  },
+  {
+    "Locations": "Velez-Malaga",
+    "Latitude": 36.8,
+    "Longitude": -4.08333
+  },
+  {
+    "Locations": "Vera",
+    "Latitude": 37.25,
+    "Longitude": -1.85
+  },
+  {
+    "Locations": "Verin",
+    "Latitude": 41.95,
+    "Longitude": -7.45
+  },
+  {
+    "Locations": "Vic. ",
+    "Latitude": 41.96667,
+    "Longitude": 2.31667
+  },
+  {
+    "Locations": "Vich/Vic",
+    "Latitude": 41.96667,
+    "Longitude": 2.31667
+  },
+  {
+    "Locations": "Vigo ",
+    "Latitude": 42.2,
+    "Longitude": -8.68333
+  },
+  {
+    "Locations": "Vila-real de los Infantes",
+    "Latitude": 39.91667,
+    "Longitude": -0.05
+  },
+  {
+    "Locations": "Vilagarcia de Arousa",
+    "Latitude": 42.56667,
+    "Longitude": -8.76667
+  },
+  {
+    "Locations": "Vilanova I la Geltru ",
+    "Latitude": 41.21667,
+    "Longitude": 1.66667
+  },
+  {
+    "Locations": "Villacarlos",
+    "Latitude": 39.88333,
+    "Longitude": 4.28333
+  },
+  {
+    "Locations": "Villacarrillo",
+    "Latitude": 38.11667,
+    "Longitude": -3.05
+  },
+  {
+    "Locations": "Villafranca de los Caballeros",
+    "Latitude": 39.56667,
+    "Longitude": 3.41667
+  },
+  {
+    "Locations": "Villajoyosa",
+    "Latitude": 38.5,
+    "Longitude": -0.2
+  },
+  {
+    "Locations": "Villalba",
+    "Latitude": 43.43333,
+    "Longitude": -7.66667
+  },
+  {
+    "Locations": "Villanueva de la Serena",
+    "Latitude": 38.98333,
+    "Longitude": -5.83333
+  },
+  {
+    "Locations": "Villarreal/Vila real de los Infantes",
+    "Latitude": 39.91667,
+    "Longitude": -0.05
+  },
+  {
+    "Locations": "Villarrobledo ",
+    "Latitude": 39.3,
+    "Longitude": -2.6
+  },
+  {
+    "Locations": "Villaviciosa",
+    "Latitude": 43.53333,
+    "Longitude": -5.45
+  },
+  {
+    "Locations": "Villena ",
+    "Latitude": 38.65,
+    "Longitude": -0.86667
+  },
+  {
+    "Locations": "vinaros",
+    "Latitude": 40.5,
+    "Longitude": 0.45
+  },
+  {
+    "Locations": "Vitigudino",
+    "Latitude": 41.01667,
+    "Longitude": -6.43333
+  },
+  {
+    "Locations": "Viveiro",
+    "Latitude": 43.65,
+    "Longitude": -7.63333
+  },
+  {
+    "Locations": "Xuquer",
+    "Latitude": 39.08333,
+    "Longitude": -0.16667
+  },
+  {
+    "Locations": "Yecla",
+    "Latitude": 38.58333,
+    "Longitude": -1.08333
+  },
+  {
+    "Locations": "Zafra",
+    "Latitude": 38.43333,
+    "Longitude": -6.5
+  },
+  {
+    "Locations": "Zafra",
+    "Latitude": 38.43333,
+    "Longitude": 6.5
+  },
+  {
+    "Locations": "Zamora",
+    "Latitude": 41.5,
+    "Longitude": -5.75
+  },
+  {
+    "Locations": "Zaragoza",
+    "Latitude": 41.65,
+    "Longitude": -0.88333
+  }
+]
