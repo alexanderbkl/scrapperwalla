@@ -28,15 +28,18 @@ async function getData() {
                         if (response.data.search_objects[key].shipping_allowed == true) {
                             //if price is higher than 15:
                             if (response.data.search_objects[key].price > 15) {
+                                //if category_id is not 12465:
+                                if (response.data.search_objects[key].category_id != 12465) {
 
-                                //if this search_object is not already in the search_objects list:
-                                if (search_objectsList.includes(response.data.search_objects[key].id) == false) {
-                                    //add the search_object to the search_objects object
-                                    search_objectsObject[count] = response.data.search_objects[key];
-                                    //add the search_object id to the search_objects list
-                                    search_objectsList.push(response.data.search_objects[key].id);
-                                    count++;
+                                    //if this search_object is not already in the search_objects list:
+                                    if (search_objectsList.includes(response.data.search_objects[key].id) == false) {
+                                        //add the search_object to the search_objects object
+                                        search_objectsObject[count] = response.data.search_objects[key];
+                                        //add the search_object id to the search_objects list
+                                        search_objectsList.push(response.data.search_objects[key].id);
+                                        count++;
 
+                                    }
                                 }
 
                             }
